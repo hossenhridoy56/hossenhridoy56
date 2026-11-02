@@ -20,7 +20,7 @@
 ---
 
 ## 📌 Executive Summary
-Statistics graduate and researcher specializing in **Functional Data Analysis (FDA)**, **Time Series Econometrics**, and **Environmental / Hydro-Climatological Statistics**. Currently working as a **Research Assistant** on a UGC-funded national climate project and pursuing an M.Sc. by thesis at Islamic University, Kushtia. Experienced in developing likelihood-based mixture models, high-dimensional clustering, massive Monte Carlo simulation engines, and full-stack computational infrastructure for scientific data.
+Statistics graduate and researcher specializing in **Functional Data Analysis (FDA)**, **Time Series Econometrics**, and **Environmental / Hydro-Climatological Statistics**. Worked as a **Research Assistant** on a UGC-funded national climate project and pursuing an M.Sc. by thesis at Islamic University, Kushtia. Experienced in developing likelihood-based mixture models, high-dimensional clustering, massive Monte Carlo simulation engines, and full-stack computational infrastructure for scientific data.
 
 ---
 
