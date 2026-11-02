@@ -13,8 +13,8 @@
 
 [![Climate Zenodo DOI](https://img.shields.io/badge/Zenodo_DOI-10.5281%2Fzenodo.23324622-0057B7?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23324622)
 [![MVT Zenodo DOI](https://img.shields.io/badge/Zenodo_DOI-10.5281%2Fzenodo.22861296-0057B7?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22861296)
-[![Academic Email](https://img.shields.io/badge/Email-hridoy1922025.stat%40std.iu.ac.bd-C5221F?style=flat-square&logo=gmail&logoColor=white)](mailto:hridoy1922025.stat@std.iu.ac.bd)
-[![Personal Email](https://img.shields.io/badge/Email-hossenhridoy56%40gmail.com-4B5563?style=flat-square&logo=mail.ru&logoColor=white)](mailto:hossenhridoy56@gmail.com)
+[[Academic Email](https://img.shields.io/badge/Email-hridoy1922025.stat%40std.iu.ac.bd-C5221F?style=flat-square&logo=gmail&logoColor=white)](mailto:hridoy1922025.stat@std.iu.ac.bd)
+[[Personal Email](https://img.shields.io/badge/Email-hossenhridoy56%40gmail.com-4B5563?style=flat-square&logo=mail.ru&logoColor=white)](mailto:hossenhridoy56@gmail.com)
 
 </div>
 
