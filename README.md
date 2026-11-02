@@ -133,7 +133,7 @@ mindmap
 ## 📊 Research Activity & Repository Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hossenhridoy56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hridoy's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hossenhridoy56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hridoy's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hossenhridoy56&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
